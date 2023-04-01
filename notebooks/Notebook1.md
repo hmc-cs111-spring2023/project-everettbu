@@ -25,7 +25,7 @@ you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
 
 My current most pressing issue is where I will get started with my project: getting ical4j up and running in scala. Since I never have done this before, I can foresee it potenitally taking me a decent amount of time to figure out and get working properly. I will keep my progress on this task updated here.
-- I am at
+1. 
 
 **What questions do you have for your critique partners? How can they best help
 you?**
