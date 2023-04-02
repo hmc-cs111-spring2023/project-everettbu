@@ -41,14 +41,23 @@ I decided that in order to set myself up for the following week, where I will be
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
 
-My current most pressing issue is where I will get started with my project: getting ical4j up and running in scala. Since I never have done this before, I can foresee it potenitally taking me a decent amount of time to figure out and get working properly. I will keep my progress on this task updated here.
-1. 
+Looking forward to this upcoming week, my most pressing issue will be writing my first DSL and making the syntactical choices I will likely need to move forward with for the rest of the project. I am less worried about making the final decisions about my DSL’s syntax as I already have a solid idea of how I want my DSL to feel like. However, I am far more worried about writing the parser for my DSL as this was something I struggled with heavily on the Piconot assignment. I fear that this aspect of the assignment will take longer than just this week which is the goal I set for myself in my project outline. Ideally, I will combat this issue by thoroughly planning out how I want to attack this task and work on achieving something that works, not a super complex output at first. If I can do this, I feel that I will be able to add more features with ease and be at a good place to potentially meet the stretch goals I set for myself.
 
 **What questions do you have for your critique partners? How can they best help
 you?**
 
+Like I mentioned in the previous question, I would benefit greatly from input on syntax choices that I will make for my DSL. At the moment, I just want to be able to add events in my own syntax but beyond that I am unsure of how I want my language to feel. Since my critique partner expressed a similar desire for my language, I hope that they will be able to provide insight for how they think my language should be structured. Should it feel more like a natural language? Aside from recurrence, what features are needed the most and which ones should I prioritize?
+
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the work?**
 
+- Project plan/syntax design: 1 hour
+- icalender/ical4j deep dive: 1 hour
+- Writing initial example program: 3.5 hours
+- Notebook: 1 hour
+
 **Compared to what you wrote in your contract about what you want to get out of this
 project, how did this week go?**
+
+Like I mentioned in the description section, I think that this week went really well. I was able to meet the milestone that I set for myself in my project outline, and had time to go beyond this initial goal and get functional code written. As of now, I feel that I am at a great place moving forward into next week. However, I think that this next week I will likely need a little bit more outside assistance writing a functional parser, as this is something I’m not fully confident how to do. With this in mind, I am prepared to spend a little bit more time on the project this week since the task I set for myself is a little bit more challenging. 
+
