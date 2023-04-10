@@ -38,11 +38,14 @@ After I completed this, I moved onto my remove feature that I anticipated to be 
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
   
-
+This upcoming week I need to start to bridge the gap between my first and second DSL. This is a little bit of a daunting task for me as I am not fully sure how to start making progress on this. I am currently under the impression that inputs for my program should contain the style/font preferences alongside the verb keyword and the event. This will require me to parse the first section and completely ignore the second section until later on when my second DSL comes into play. I am currently unsure if this is the best approach for me to take and will need to plan it out thoroughly this upcoming week.
 
 **What questions do you have for your critique partners? How can they best help
 you?**
 
+I would greatly appreciate any feedback on the situation I described in the previous section. 
+
+  
 How would you approach saving my ical outputs so that they are easy to use when I start the application side of my project? I’m currently thinking of a simple array based structure but I would love to hear your thoughts. 
   
 Something that I am considering working on for this week is making my input handling less harsh. For example, if I try to write “jan 14 add ‘chapter’” my program throws an error because Jan isn't capitalized. Do you think this is something that is something that I should prioritize or leave for later on?
@@ -53,7 +56,7 @@ team, how did you share the work?**
 I hoped to devote slightly more time to this project this past week but since I had multiple midterms I felt a little overwhelmed. Even though I didn't fall behind on my goal, this upcoming week I plan on making additional progress to put me in a better position to have a solid program by the end of the semester.
   
 - Parser creation: 4.5 hours
-- Notebook: 1 hour
+- Notebook: 1.5 hours
 
 **Compared to what you wrote in your contract about what you want to get out of this
 project, how did this week go?**
