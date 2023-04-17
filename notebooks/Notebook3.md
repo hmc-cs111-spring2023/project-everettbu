@@ -45,11 +45,20 @@ After an hour or two of debugging, I successfully added events into the HTML cal
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
 
+The most pressing issue for my project is to parse the second half of my inputs and add the styles to a CSS output. I think that I have an idea of where I will start my attempt to do this, which will be a similar approach to how I got text added to the calendar. Also, I would like to finally implement the remove function which I believe will be easier to do since I now have an array containing the events. One last thing, I also broke the .ics output sometime throughout the past week and I am deciding if I actually need to fix it. It doesn't actually seem that helpful to me and I probably wont ever use it so I might just remove the feature entirely.
+
+
 **What questions do you have for your critique partners? How can they best help
 you?**
+
+If they have solid experience writing in CSS I would love some insight on how I might want to start writing the parser that handles colors based on a text input. I am unsure of the best approach to change the color/font of lines of text.
 
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the work?**
 
+12ish hours. I got back on teack to finish the goals that I set out for myself in my project pitch. A lot of time was spent working through solutions that did not work for me before getting to the successful result I was able to achieve.
+
 **Compared to what you wrote in your contract about what you want to get out of this
 project, how did this week go?**
+
+This past week I made the game time decision to switch my goals for week 3 and week 4. This week was a success for me since I was able to complete my goal for week 4- get my front end interface up and running. 
