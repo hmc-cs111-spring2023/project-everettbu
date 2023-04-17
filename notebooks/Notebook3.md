@@ -53,8 +53,6 @@ you?**
 
 If they have solid experience writing in CSS I would love some insight on how I might want to start writing the parser that handles colors based on a text input. I am unsure of the best approach to change the color/font of lines of text.
 
-Also, looking at the example screen shot above, for the input title "Project due" the words 'Project' and 'due' are printed on separate lines. How do I get them to appear on the same line?
-
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the work?**
 
